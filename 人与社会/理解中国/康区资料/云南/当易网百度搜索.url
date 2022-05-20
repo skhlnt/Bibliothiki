@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.baidu.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.baidu.com/s?wd=当易网
+IconFile=http://www.baidu.com/favicon.ico
+IconIndex=1
+Modified=10266C12BA28D00167
+HotKey=0
+IDList=
+[InternetShortcut.A]
+URL=http://www.baidu.com/s?wd=当易网
+[InternetShortcut.W]
+URL=http://www.baidu.com/s?wd+AD1fU2YTf1E-
